@@ -1,5 +1,5 @@
 # InstUI
-![Logo](instui.png)
+![Logo](instui_.png)
 ## What is InstUI?
 InstUI is a **light, modern and simple** installer frontend.
 ## What is an installer frontend?
