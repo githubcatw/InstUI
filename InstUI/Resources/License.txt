@@ -1,0 +1,20 @@
+This is a dummy EULA.
+
+To the creator of this installer:
+Please replace the EULA in License.txt.
+
+To users:
+Please contact the creator of this program and ask them to replace the EULA.
+
+To the contributors:
+Do nothing. Leave this as is.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean imperdiet congue neque, et suscipit sapien interdum at. Nam mi magna, convallis id luctus pulvinar, porttitor non magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus leo justo, scelerisque id sapien et, viverra sodales odio. Aliquam ligula lorem, ornare non metus et, aliquam facilisis nibh. Sed ipsum felis, bibendum eu fermentum sed, auctor nec eros. Mauris at congue sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi tempus pharetra urna, eget elementum nunc sollicitudin ac. Cras id arcu id velit porta vestibulum id et lectus. Suspendisse lacus erat, vulputate eu urna sed, rutrum dignissim lorem. Nulla facilisi. Maecenas ac orci eget lorem finibus malesuada.
+
+Quisque fringilla sed ex ac tincidunt. In fermentum mattis ultricies. Pellentesque varius finibus nulla consequat tempor. Nulla dictum leo ut orci tempor, nec aliquet metus imperdiet. Duis sed porttitor arcu. Donec nisl sapien, pellentesque nec nisi in, placerat laoreet quam. Donec malesuada blandit est, eget venenatis turpis porta vel. Proin diam arcu, iaculis non tellus ac, cursus tempus magna. Nulla suscipit convallis pulvinar. Morbi placerat porta nisi. Nunc varius libero dolor.
+
+Pellentesque ac diam nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae dolor id quam congue elementum. Ut non urna id tortor efficitur semper. Maecenas lacinia tempor tellus, ut mollis nibh dignissim ac. Nullam aliquet interdum consequat. Quisque ipsum massa, ornare quis commodo et, tincidunt nec eros. Fusce in rutrum elit.
+
+Fusce ullamcorper sed dolor in sollicitudin. Proin convallis vestibulum vulputate. Nunc efficitur condimentum augue eu malesuada. Donec sit amet lorem commodo, fringilla est vitae, congue velit. Nulla varius congue porta. Sed in luctus odio, ut aliquam massa. Proin felis orci, mattis sed dolor eu, sagittis pellentesque nisi.
+
+Suspendisse potenti. Praesent facilisis vestibulum elementum. Phasellus convallis ac dolor vitae commodo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam et lectus feugiat, luctus nisl maximus, dignissim enim. Ut ultrices pharetra ante, gravida egestas leo semper sit amet. Ut eu pharetra lorem. Suspendisse suscipit nec erat ac tristique. Ut porta, ante sit amet tincidunt posuere, odio nibh faucibus eros, eu venenatis libero odio at sapien. Praesent massa tortor, dapibus ac maximus a, viverra eget neque. Suspendisse rhoncus laoreet gravida.
