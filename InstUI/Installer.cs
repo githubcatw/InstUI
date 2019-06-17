@@ -22,6 +22,10 @@ namespace InstUI {
             /// InstallShield 7+.
             /// </summary>
             InstallShield,
+            /// <summary>
+            /// InstallShield, using an ISS answer file.
+            /// </summary>
+            InstallShieldIss,
             /*/// <summary>
             /// Any MSI, will be installed with msiexec.
             /// </summary>
@@ -40,7 +44,8 @@ namespace InstUI {
             {InstallerTypes.Nsis, "/S /D={Dir}"},
             {InstallerTypes.Inno, "/sp- /silent /norestart"},
             {InstallerTypes.InstallShield, "/s /v\"/qb\""},
-            /*{InstallerTypes.Msi, "/qb /i {File}"},*/
+            {InstallerTypes.InstallShieldIss, "/s /f1\"{AnswerFile}\"" },
+            //{InstallerTypes.Msi, "/qb /i {File}"},
             {InstallerTypes.Ghost, "-s" }/*,
             {InstallerTypes.None, "" }*/
         };
